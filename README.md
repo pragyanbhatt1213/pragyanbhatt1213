@@ -2,13 +2,14 @@
 
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=550&lines=I+build+things+that+actually+work+🚀;Computer+Vision+%7C+LLMs+%7C+Cloud;I+reverse-engineered+my+uni's+portal+😅;Always+learning%2C+always+shipping" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=550&lines=I+build+things+that+actually+work+%F0%9F%9A%80;Computer+Vision+%7C+LLMs+%7C+Cloud;I+reverse-engineered+my+uni's+portal+%F0%9F%98%85;Always+learning%2C+always+shipping" alt="Typing SVG" /></a>
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pragyan-bhatt-36bb46289)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pragyanbhatt1213)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pragyanntt@gmail.com)
+
 </div>
 
 ---
@@ -23,7 +24,7 @@ I've reverse-engineered my university's entire portal to build a better version 
 
 I like the messy, hard problems — the ones where the documentation doesn't exist yet and you have to figure it out yourself.
 
-Right now I'm deep into **Ai**, **LLM-powered apps**, and **cloud infra**. When I'm not building, I'm grinding DSA.
+Right now I'm deep into **AI**, **LLM-powered apps**, and **cloud infra**. When I'm not building, I'm grinding DSA.
 
 <br clear="right"/>
 
@@ -139,6 +140,7 @@ Conversational AI over cultural heritage documents. Semantic retrieval with Lang
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
+</div>
 
 ---
 
@@ -146,12 +148,9 @@ Conversational AI over cultural heritage documents. Semantic retrieval with Lang
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=pragyanbhatt1213&show_icons=true&theme=tokyo-night&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pragyanbhatt1213&layout=compact&theme=tokyo-night&hide_border=true&langs_count=8" height="170"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pragyanbhatt1213&theme=tokyo-night&hide_border=true" height="170"/>
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=pragyanbhatt1213&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=pragyanbhatt1213&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=pragyanbhatt1213&layout=compact&theme=radical)
 
 </div>
 
@@ -160,18 +159,10 @@ Conversational AI over cultural heritage documents. Semantic retrieval with Lang
 ### 📈 Activity
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pragyanbhatt1213&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pragyanbhatt1213&theme=tokyo-night&hide_border=true&area=true&area_color=7aa2f7" width="100%"/>
 </div>
 
----
 
-### 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=pragyanbhatt1213&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=4" />
-</div>
-
----
 
 ### 🐍 Watch my contributions get eaten
 
@@ -179,38 +170,9 @@ Conversational AI over cultural heritage documents. Semantic retrieval with Lang
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pragyanbhatt1213/pragyanbhatt1213/output/github-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pragyanbhatt1213/pragyanbhatt1213/output/github-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/pragyanbhatt1213/pragyanbhatt1213/output/github-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/pragyanbhatt1213/pragyanbhatt1213/output/github-snake-dark.svg"/>
 </picture>
 </div>
-
-<details>
-<summary>⚙️ Enable the snake animation (click to expand)</summary>
-
-Create `.github/workflows/snake.yml` in your `pragyanbhatt1213/pragyanbhatt1213` profile repo:
-
-```yaml
-name: Generate Snake
-on:
-  schedule: [{ cron: "0 0 * * *" }]
-  workflow_dispatch:
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: pragyanbhatt1213
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-</details>
 
 ---
 
